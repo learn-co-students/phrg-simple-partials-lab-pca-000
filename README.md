@@ -20,6 +20,5 @@ We've provided a seed file so you can have some data to play around with. Run `r
 2. Remove the duplicated code in the `classrooms/show.html.erb` and `students/show.html.erb` files by making a partial called `students/_student.html.erb`.
 
 ## Does this need an update?
-Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-simple-partials-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-simple-partials-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
-<p data-visibility='hidden'>PHRG Simple Partials Lab</p>
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-simple-partials-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-simple-partials-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
